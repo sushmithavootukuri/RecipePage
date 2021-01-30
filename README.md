@@ -1,6 +1,6 @@
 # A Simple Recipe Page using React
 
-## [View](https://bzr5d.csb.app/)
+## [View here](https://bzr5d.csb.app/)
 
 ### Installation
 
