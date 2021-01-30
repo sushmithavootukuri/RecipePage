@@ -1,6 +1,6 @@
 # A Simple Recipe Page using React
 
-## [View](https://sushmithavootukuri.github.io/RecipePage/)
+## [View](https://bzr5d.csb.app/)
 
 ### Installation
 
