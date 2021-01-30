@@ -1,6 +1,6 @@
 # A Simple Recipe Page using React
 
-## [View](https://sushmithavootukuri.github.io/Tik-Tak-Toe/)
+## [View](https://sushmithavootukuri.github.io/RecipePage/)
 
 ### Installation
 
